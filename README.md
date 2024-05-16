@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Ajina
+👋 Hi, I’m Ajina
