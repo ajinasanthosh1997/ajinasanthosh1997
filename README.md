@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ajinasanthosh1997&color=blue)
 
-Welcome to my GitHub profile! I'm a Python Developer, passionate about coding, open-source contributions, and web development.
+Welcome to my GitHub profile! I'm a Python Developer, passionate about coding and web development.
 
 - 📫 How to reach me: ajinasanthosh97@gmail.com
 
