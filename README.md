@@ -21,7 +21,14 @@ Welcome to my GitHub profile! I'm a Python Developer, passionate about coding an
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinasanthosh1997&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinasanthosh1997&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF)
+
+## 💻 Current Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajinasanthosh1997&theme=radical&hide_border=true&background=0D1117&stroke=FFFFFF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)
+
+## 📊 Total Contributions
+
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=ajinasanthosh1997&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF&hide_rank=true&hide_title=true&line_height=24)
 
 
 ## 🤝 Connect with Me
