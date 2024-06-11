@@ -9,14 +9,14 @@ Welcome to my GitHub profile! I'm a Python Developer, passionate about coding, o
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-333?style=flat&logo=django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-333?style=flat&logo=django)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ## 📈 GitHub Stats
 
