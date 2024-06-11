@@ -18,9 +18,6 @@ Welcome to my GitHub profile! I'm a Python Developer, passionate about coding an
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinasanthosh1997&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&icon_color=58A6FF)
 
 ## 💻 Current Streak
 
