@@ -18,6 +18,11 @@ Welcome to my GitHub profile! I'm a Python Developer with a passion for coding, 
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-333?style=flat&logo=django)
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinasanthosh1997&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinasanthosh1997&layout=compact&theme=radical)
+
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ajina-santhosh-214b12298/)
