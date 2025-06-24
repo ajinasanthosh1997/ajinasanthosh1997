@@ -36,4 +36,7 @@ I'm a passionate **Full Stack Developer** skilled in **Python, Django, JavaScrip
 
 ## 🔥 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajinasanthosh1997&theme=radical&hide_border=true)
+![Ajina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinasanthosh1997&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinasanthosh1997&layout=compact&theme=radical&hide_border=true)
+
