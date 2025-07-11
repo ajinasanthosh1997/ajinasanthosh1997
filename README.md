@@ -41,8 +41,6 @@ _Where logical thinking meets creative solutions._
 
 ---
 
-## 🔥 GitHub Stats
-
-![Ajina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajinasanthosh1997&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinasanthosh1997&layout=compact&theme=radical&hide_border=true)
+## 🔥 GitHub Activity & Stats
+<div align="center"> <!-- GitHub Stats Card --> <<img src="https://github-readme-stats.vercel.app/api?username=ajinasanthosh1997&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Ajina's%20Total%20GitHub%20Stats" width="100%" />
+<!-- GitHub Streak Card --> <img src="https://streak-stats.demolab.com?user=ajinasanthosh1997&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="47%" /> <!-- Top Languages Card --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinasanthosh1997&layout=compact&theme=tokyonight&hide_border=true" width="47%" /> </div>
